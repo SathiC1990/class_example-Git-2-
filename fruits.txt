@@ -1,3 +1,5 @@
 Apple
-Banana
+Blueberry
 Mango
+Watermellon
+Strawberry
